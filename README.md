@@ -1,4 +1,4 @@
-# Project 2 - Tre train track
+# Project 2 - The train track
 
 For the procedures used in this project see : [Procedures](Procedures.md)
 
