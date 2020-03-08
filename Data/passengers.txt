@@ -31,5 +31,4 @@
 31;Bradley Mack
 32;Wanda Escobar
 33;Sunil Cassidy
-34;Carlos Lyons
-35;Sade Redfern
+34;Sade Redfern
