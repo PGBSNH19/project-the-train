@@ -2,23 +2,23 @@
 
 For the procedures used in this project see : [Procedures](Procedures.md)
 
-For the documentation by the team see: [Documentation\readme.md](Documentation\readme.md)
+For the documentation by the team see: [Documentation/readme.md](Documentation/readme.md)
 
 # Tre train track
 
 The goal of this project is to create a small train simulator.
 
-The track consist if four stations, two end stations and two in-between, on separate tracks. ![track](C:\GitHub\project-the-train\track.jpg)
+The track consist if four stations, two end stations and two in-between, on separate tracks. ![Airal photo of the track](track.jpg)
 
 The trains on the track is controlled by the control tower where the operator (mr Carlos Lyons), makes sure the trains follows the time schedule by starting and stopping the trains at the stations, he also controls the level crossing and the railroad switches.
 
-![control](C:\GitHub\project-the-train\control.jpg)
+![The control tower](control.jpg)
 
-![levelcrossingswitch](C:\GitHub\project-the-train\levelcrossingswitch.jpg)
+![A level crossing and a railway switch](levelcrossingswitch.jpg)
 
 The track have currently two active trains going back and forward Golden Arrow and Lapplandståget
 
-![trains](C:\GitHub\project-the-train\trains.jpg)
+![The two trains](trains.jpg)
 
 Each train have a wagon with passengers, these gets on and of at different stations.
 
