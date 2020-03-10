@@ -22,6 +22,8 @@ The track have currently two active trains going back and forward Golden Arrow a
 
 Each train have a wagon with passengers, these gets on and of at different stations.
 
+There can only be one train at the station at the time. 
+
 ## Your assignment
 
 Write a program to control the simulate the trains on the track. Before starting make sure to plan your work by doing CRC cards, besides that can you also do mind map or diagrams.
